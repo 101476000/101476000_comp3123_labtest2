@@ -182,20 +182,20 @@ Potential improvements for future versions:
 - **Student ID:101476000
 - **Name: Carlos Figuera La Riva
 - **Course:** COMP 3123 - Full Stack Development I
-- **Semester:** Fall 2024
+- **Semester:** Fall 2025
 - **Professor:** Pritesh Patel
 - **Assignment:** Lab Test 2, Week 13
 
 ## Deployment
 
-**Live Demo:** https://your-app.vercel.app
+**Live Demo:** https://101476000-comp3123-labtest2.vercel.app/
 
-**GitHub Repository:** https://github.com/YOUR_USERNAME/YOUR_STUDENTID_comp3123_labtest2
+**GitHub Repository:** https://github.com/101476000/101476000_comp3123_labtest2.git
 
 ---
 
-**Last Updated:** November 27, 2024
-**Last Updated:** November 27, 2024
+**Last Updated:** November 27, 2025
+**Last Updated:** November 27, 2025
 
 ## License
 
@@ -205,4 +205,4 @@ This project is created for educational purposes as part of COMP 3123 course at 
 
 **Note:** This project was completed as part of Lab Test 2 requirements. All code is original and follows academic integrity guidelines.
 
-**Last Updated:** November 27, 2024
+**Last Updated:** November 27, 2025
